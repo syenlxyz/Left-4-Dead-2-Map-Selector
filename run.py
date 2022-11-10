@@ -18,7 +18,7 @@ def get_sample():
 
 def run():
     window = tk.Tk()
-    window.title('L4D2 Map Select')
+    window.title('L4D2 Map Selector')
     window.geometry('300x120')
 
     font = Font(family='TkDefaultFont', size=15)
