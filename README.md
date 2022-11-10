@@ -16,4 +16,4 @@ Do not close the command prompt until you see `Press any key to continue . . .` 
 ## 3. Usage
 Double-click `run.bat` to execute the program.
 
-Do not close the command prompt when you are using the program (closing the command prompt will also close the program).
+Do not close the command prompt when the program is still in use (closing the command prompt will also close the program).
