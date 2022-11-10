@@ -9,7 +9,7 @@ Unzip the file once you have downloaded the repository.
 ## 2. Installation 
 Skip this step if you have already have Anaconda or Miniconda installed in your computer.
 
-If you don't already have Anaconda or Miniconda installed in your computer, double-click `setup.bat` to download and perform one-time installation of Miniconda. 
+If you don't already have Anaconda or Miniconda installed in your computer, double-click `setup.bat` to download and perform a one-time installation of Miniconda. 
 
 Do not close the command prompt until you see `Press any key to continue . . .` (it means that the installation is complete).
 
