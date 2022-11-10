@@ -7,7 +7,7 @@ Click [this link](https://github.com/syenlxyz/l4d2maps/archive/refs/heads/main.z
 Unzip the file once you have downloaded the repository.
 
 ## 2. Installation 
-Skip this step if you have already have Anaconda or Miniconda installed in your computer.
+Skip this step if you already have Anaconda or Miniconda installed in your computer.
 
 If you don't already have Anaconda or Miniconda installed in your computer, double-click `setup.bat` to download and perform a one-time installation of Miniconda. 
 
