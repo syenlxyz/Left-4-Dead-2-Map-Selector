@@ -2,7 +2,7 @@
 Random Map Selector for Left 4 Dead 2 Maps
 
 ## 1. Download
-Click [this link](https://github.com/syenlxyz/l4d2maps/archive/refs/heads/main.zip) to download this GitHub repostory as a zipped file. 
+Click [this link](https://github.com/syenlxyz/l4d2maps/archive/refs/heads/main.zip) to download this GitHub repository as a zipped file. 
 
 Unzip the file once you have downloaded the repository.
 
