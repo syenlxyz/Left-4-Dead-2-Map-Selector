@@ -2,11 +2,13 @@
 Left 4 Dead 2 Map Selector
 
 ## 1. Download
-Click [this link](https://github.com/syenlxyz/l4d2maps/archive/refs/heads/main.zip) to download this GitHub repository as a zipped file. 
 
-Unzip the file once you have downloaded the repository.
+Click [this link](https://github.com/syenlxyz/l4d2maps/releases) to download the source code from the latest release.
 
-## 2. Installation 
+Extract the zipped file once you have downloaded the source code.
+
+## 2. Installation
+
 Skip this step if you already have Anaconda or Miniconda installed in your computer.
 
 If you don't already have Anaconda or Miniconda installed in your computer, double-click `install.bat` to perform a one-time installation of Miniconda. 
