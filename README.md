@@ -1,5 +1,5 @@
 # l4d2maps
-Left 4 Dead 2 Map Generator
+Left 4 Dead 2 Map Selector
 
 ## 1. Download
 Click [this link](https://github.com/syenlxyz/l4d2maps/archive/refs/heads/main.zip) to download this GitHub repository as a zipped file. 
