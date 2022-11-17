@@ -17,7 +17,7 @@ Double-click `install.bat` to perform a one-time installation of Miniconda.
 
 ### b. Manual Installation
 
-You can find the latest version of Anaconda/Miniconda in the links below:
+You can find the links to the latest version of Anaconda/Miniconda installers below:
 
 > Anaconda Installer: https://www.anaconda.com/
 
