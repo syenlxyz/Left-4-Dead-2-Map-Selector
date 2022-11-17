@@ -1,21 +1,33 @@
 # l4d2-map-selector
 Left 4 Dead 2 Map Selector
 
-## 1. Download
+## 1. Download Source Code
 
-Click [this link](https://github.com/syenlxyz/l4d2-map-selector/releases) to download the source code from the latest release.
+Click the link below to download the latest version of the source code:
 
-Extract the zipped file once you have downloaded the source code.
+> GitHub Release: https://github.com/syenlxyz/l4d2-map-selector/releases
 
-## 2. Installation
+## 2. Conda Installation
 
-Skip this step if you already have Anaconda or Miniconda installed in your computer.
+### a. Quick Installation
 
-If you don't already have Anaconda or Miniconda installed in your computer, double-click `install.bat` to perform a one-time installation of Miniconda. 
+Double-click `install.bat` to perform a one-time installation of Miniconda.
 
 > Do not close the command prompt until you see `Press any key to continue . . .` (it means that the installation is complete).
 
-## 3. Setup
+### b. Manual Installation
+
+You can find the latest version of Anaconda/Miniconda in the links below:
+
+> Anaconda Installer: https://www.anaconda.com/
+
+> Miniconda Installer: https://docs.conda.io/en/latest/miniconda.html
+
+During the installation, make sure you have selected the advanced options as shown below:
+
+<img src="install.png">
+
+## 3. Python Setup
 
 If you are running this program for the first time, double-click `setup.bat` to perform a one-time setup for the program.
 
