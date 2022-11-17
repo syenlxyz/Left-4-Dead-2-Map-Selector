@@ -3,7 +3,7 @@ Left 4 Dead 2 Map Selector
 
 ## 1. Download
 
-Click [this link](https://github.com/syenlxyz/l4d2maps/releases) to download the source code from the latest release.
+Click [this link](https://github.com/syenlxyz/l4d2-map-selector/releases) to download the source code from the latest release.
 
 Extract the zipped file once you have downloaded the source code.
 
