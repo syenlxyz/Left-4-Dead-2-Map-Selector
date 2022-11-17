@@ -38,3 +38,7 @@ If you are running this program for the first time, double-click `setup.bat` to 
 Double-click `run.bat` to execute the program.
 
 > Do not close the command prompt when the program is still in use (closing the command prompt will close the program).
+
+Program Preview:
+
+<img src="run.png">
