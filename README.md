@@ -1,7 +1,7 @@
 # l4d2-map-selector
 Left 4 Dead 2 Map Selector
 
-## 1. Download Source Code
+## 1. Download
 
 Click the link below to download the latest version of the source code:
 
@@ -33,7 +33,7 @@ If you are running this program for the first time, double-click `setup.bat` to 
 
 > Do not close the command prompt until you see `Press any key to continue . . .` (it means that the setup is complete).
 
-## 4. Program Usage
+## 4. Usage
 
 Double-click `run.bat` to execute the program.
 
