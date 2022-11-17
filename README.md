@@ -33,7 +33,7 @@ If you are running this program for the first time, double-click `setup.bat` to 
 
 > Do not close the command prompt until you see `Press any key to continue . . .` (it means that the setup is complete).
 
-## 4. Usage
+## 4. Program Usage
 
 Double-click `run.bat` to execute the program.
 
