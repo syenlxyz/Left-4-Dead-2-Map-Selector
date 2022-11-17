@@ -23,7 +23,7 @@ You can find the latest version of Anaconda/Miniconda in the links below:
 
 > Miniconda Installer: https://docs.conda.io/en/latest/miniconda.html
 
-During the installation, make sure you have selected the advanced options as shown below:
+During the installation, make sure you have selected both advanced options as shown below:
 
 <img src="install.png">
 
