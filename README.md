@@ -1,4 +1,4 @@
-# l4d2maps
+# l4d2-map-selector
 Left 4 Dead 2 Map Selector
 
 ## 1. Download
