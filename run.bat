@@ -1,4 +1,4 @@
 @echo off
-call conda activate
-python run.py
+set python="python-3.9.13-embed-amd64/python.exe"
+%python% run.py
 pause
