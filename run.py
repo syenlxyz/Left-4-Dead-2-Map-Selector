@@ -47,11 +47,11 @@ class App:
         label = tk.Label(window, text='Select Map', font=('TkDefaultFont', 22))
         label.pack(pady=35)
 
-        def select():
+        def select_map():
             item = self.select_item()
             label['text'] = item
 
-        button = tk.Button(window, text='Select Map', command=select)
+        button = tk.Button(window, text='Select Map', command=select_map)
         button.pack()
 
         window.mainloop()
