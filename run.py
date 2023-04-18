@@ -1,7 +1,7 @@
 import numpy as np
 import tkinter as tk
 
-class App:
+class MapSelector:
     def __init__(self):
         self.items = self.get_items()
     
@@ -57,5 +57,5 @@ class App:
         window.mainloop()
 
 if __name__=='__main__':
-    app = App()
+    app = MapSelector()
     app.run()
