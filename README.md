@@ -8,6 +8,6 @@
 
 > Do not close the command prompt when the program is still in use (closing the command prompt will close the program).
 
-### 3. Preview:
+### 3. Program Preview:
 
 <img src="run.png">
