@@ -28,13 +28,13 @@ class MapSelector:
     def select_item(self):
         if not self.items:
             self.items = self.get_items()
-
+        
         items = self.items
         num_item = len(items)
-
+        
         weights = np.random.poisson(size=num_item) + 1
         probs = weights / sum(weights)
-
+        
         item = np.random.choice(items, p=probs)
         items.remove(item)
         return item
@@ -43,17 +43,17 @@ class MapSelector:
         window = tk.Tk()
         window.title('Left 4 Dead 2 Map Selector')
         window.geometry('320x140')
-
+        
         label = tk.Label(window, text='Select Map', font=('TkDefaultFont', 22))
         label.pack(pady=35)
-
+        
         def select_map():
             item = self.select_item()
             label['text'] = item
-
+        
         button = tk.Button(window, text='Select Map', command=select_map)
         button.pack()
-
+        
         window.mainloop()
 
 if __name__=='__main__':
