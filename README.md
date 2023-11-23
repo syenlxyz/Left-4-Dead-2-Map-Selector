@@ -4,10 +4,8 @@
 
 GitHub Releases: https://github.com/syenlxyz/Left-4-Dead-2-Map-Selector/releases
 
-### 2. Double-click `run.bat` to run the program.
+### 2. Double-click `run.vbs` to run the program.
 
-> Do not close the command prompt when the program is still in use (closing the command prompt will close the program).
-
-### App Preview:
+Preview:
 
 <img src="run.png">
